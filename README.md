@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... Plz Don't
 - 😄 Pronouns: ... Him
-- ⚡ Fun fact: ... Iron III ADC
 
 <!---
 HumanGoblin/HumanGoblin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
